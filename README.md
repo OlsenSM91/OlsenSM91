@@ -22,48 +22,6 @@ I care about readable code, predictable behavior, and solutions that actually su
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 CredCleaner
-Native Windows utility for clearing stored credentials and vault entries.  
-Built for cleanup, troubleshooting, and security hygiene.
-
-**Tech:** C, Windows internals
-
----
-
-### 📝 Windows 11 Notepad Cache Extractor
-Extracts recoverable text from Windows 11 Notepad cache files.  
-Useful for recovery, troubleshooting, and light forensic inspection.
-
-**Tech:** Python, PowerShell
-
----
-
-### 🛡️ WatchGuard EPDR → ConnectWise Alerting
-Monitors WatchGuard EPDR tenants for isolated devices and automatically creates ConnectWise tickets.  
-Built for MSP and SOC workflows that need actionable alerts.
-
-**Tech:** Python, APIs, automation
-
----
-
-### 🔑 CWA Password Extractor
-Extracts stored credentials from ConnectWise Automate installations.  
-Designed for migrations, audits, and disaster recovery scenarios.
-
-**Tech:** Python
-
----
-
-### 🏠 Pi Garage Door Monitor
-Raspberry Pi based garage door monitor and controller with state detection.  
-Because automation at home should be as reliable as automation at work.
-
-**Tech:** Python, Raspberry Pi, GPIO
-
----
-
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OlsenSM91&style=flat)
