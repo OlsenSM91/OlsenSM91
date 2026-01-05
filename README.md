@@ -8,19 +8,43 @@ I care about readable code, predictable behavior, and solutions that actually su
 
 ---
 
-## 🧰 What I Work With
+## 🧰 Tech Stack
 
-**Languages**
-- Python
-- PowerShell
-- Bash
-- C
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Platforms & Tech**
-- FastAPI, Flask
-- Docker, Linux, Windows
-- SIEM, EDR, MSP tooling
-- APIs, automation, recovery utilities
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🔐 Security & Operations
+
+![SIEM](https://img.shields.io/badge/SIEM-Detection%20%26%20Response-2E3440?style=flat)
+![EDR](https://img.shields.io/badge/EDR-Endpoint%20Protection-4C566A?style=flat)
+![MSP](https://img.shields.io/badge/MSP-Automation%20%26%20Ops-5E81AC?style=flat)
+
+![Windows Security](https://img.shields.io/badge/Windows-Security-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux Security](https://img.shields.io/badge/Linux-Hardening-FCC624?style=flat&logo=linux&logoColor=black)
+
+![API Security](https://img.shields.io/badge/API-Security-0A66C2?style=flat)
+![Log Analysis](https://img.shields.io/badge/Log-Analysis-3B4252?style=flat)
+![Incident Response](https://img.shields.io/badge/Incident-Response-BF616A?style=flat)
+
+![WatchGuard](https://img.shields.io/badge/WatchGuard-Firewalls%20%26%20EPDR-EE2A24?style=flat)
+![ConnectWise](https://img.shields.io/badge/ConnectWise-MSP%20Platform-0D4C73?style=flat)
+![Security Automation](https://img.shields.io/badge/Security-Automation-2E3440?style=flat)
+
+> Security tooling should reduce risk without increasing operational pain.
 
 ---
 
@@ -66,22 +90,11 @@ Because automation at home should be as reliable as automation at work.
 
 ---
 
-## 🧪 Other Things You’ll Find Here
-
-- Recovery and inspection utilities
-- Security automation scripts
-- MSP and SOC workflow tooling
-- Proof-of-concept integrations that turned into real tools
-
-Most repos are built to scratch a real itch. Some of them just escaped into public view.
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlsenSM91&show_icons=true)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlsenSM91&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlsenSM91&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlsenSM91&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
@@ -91,7 +104,7 @@ If you are interested in:
 - security automation
 - practical tooling
 - MSP or SOC integrations
-- making broken workflows less painful
+- fixing workflows that should not be broken
 
 You are probably in the right place.
 
